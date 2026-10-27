@@ -82,11 +82,14 @@ The supplied chart indicates that Random Forest performs best among the four tes
 ## Project Files
 Suggested repository structure:
 ```text
-water-potability-prediction/
-├── README.md
-├── water_potability.csv
-├── projectwaterquality.py
-└── accuracy score graphical comparison.png
+comparativemachine learning approach for water quality check/
+├── .venv/
+├── comparativemachine learning approach for water quality check/
+│   ├── accuracy score graphical comparison.png
+│   ├── output.pdf
+│   ├── source code.pdf
+│   └── water_potability.csv
+└── README.md
 ```
 
 Update the filenames in this structure to match the files you upload to GitHub.
