@@ -80,7 +80,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 The supplied chart indicates that Random Forest performs best among the four tested models, followed by KNN, Gaussian Naive Bayes, and Logistic Regression. The chart reports accuracy only; a full evaluation should also consider the confusion matrices and other classification metrics, particularly precision, recall, and F1-score.
 
 ## Project Files
-Suggested repository structure:
 ```text
 comparativemachine learning approach for water quality check/
 ├── .venv/
