@@ -90,8 +90,5 @@ comparativemachine learning approach for water quality check/
 │   └── water_potability.csv
 └── README.md
 ```
-
-Update the filenames in this structure to match the files you upload to GitHub.
-
 ## Author
 **Ramkrishna Majumder**
